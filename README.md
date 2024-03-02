@@ -1,2 +1,2 @@
-# Fuzzy-SQL-with-Apache-Pig
-This project contains fuzzy sql queries implemented with Apache Pig scripts
+# Fuzzy SQL queries with UDF Apache Pig
+This project contains fuzzy sql queries implemented with Apache Pig UDF scripts
